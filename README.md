@@ -9,13 +9,15 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white" />
 </p>
+
 
 ---
 
@@ -26,6 +28,16 @@ A Flask-based weather app that displays live weather using real-time APIs and no
 **Features:** City-specific weather conditions, extended forecasts, sleek UI.  
 **Stack:** Flask, Python, Weather API, HTML/CSS  
 [![Repo](https://img.shields.io/badge/View%20Repo-WeatherOrNot-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/WeatherOrNot)
+
+---
+
+### 🏓 PingPalm
+
+A multiplayer Pong game powered by **real-time hand tracking**—no controllers, just palms.
+Control paddles using your index fingers via webcam. It’s Pong, but with hand gestures and obstacle chaos.
+**Features:** Gesture-based paddle control, mid-game obstacles, live webcam feed, game-over screen, smooth restart.
+**Stack:** Python, OpenCV, MediaPipe, Pygame
+[![Repo](https://img.shields.io/badge/View%20Repo-PingPalm-0A66C2?style=for-the-badge\&logo=github)](https://github.com/SR-005/PingPalm)
 
 ---
 
@@ -52,13 +64,6 @@ A GUI-based payroll manager for generating salary slips in bulk — built for bo
 **Stack:** Python, CustomTkinter, OpenPyXL, SQLite/MySQL  
 [![Repo](https://img.shields.io/badge/View%20Repo-Payroll%20Generator-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/Payroll-Generator)
 
----
-
-### 🎟️ NAIRAFLIX (Mini Project)  
-A basic theater management app that handles movie schedules and ticket booking.  
-**Features:** Ticket booking, showtime scheduling, image-rich GUI.  
-**Stack:** Python, Tkinter, Pillow, SQLite  
-[![Repo](https://img.shields.io/badge/View%20Repo-NAIRAFLIX-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/Nairaflix)
 
 - **More coming soon... assuming I don’t disappear into another YouTube tutorial rabbit hole.**
 
