@@ -33,8 +33,7 @@ A Flask-based weather app that displays live weather using real-time APIs and no
 
 ### 🏓 PingPalm
 
-A multiplayer Pong game powered by **real-time hand tracking**—no controllers, just palms.
-Control paddles using your index fingers via webcam. It’s Pong, but with hand gestures and obstacle chaos.
+A multiplayer Pong game powered by **real-time hand tracking**—no controllers, just palms. Control paddles using your index fingers via webcam. It’s Pong, but with hand gestures and obstacle chaos.
 **Features:** Gesture-based paddle control, mid-game obstacles, live webcam feed, game-over screen, smooth restart.
 **Stack:** Python, OpenCV, MediaPipe, Pygame
 [![Repo](https://img.shields.io/badge/View%20Repo-PingPalm-0A66C2?style=for-the-badge\&logo=github)](https://github.com/SR-005/PingPalm)
