@@ -28,8 +28,8 @@
 ## 🌟 Projects I'm Proud Of
 
 ###  RollCall3  
-RollCall3 is a Flask-powered bridge between event organizers and Web3. It uses Python-based validation to analyze Google Meet or Zoom attendance reports and automatically determine who truly attended the event. Once verified, it connects with the POAP API to generate and distribute event badges seamlessly. Think of it as your smart backend that turns attendance data into blockchain-proof memories.
-**Features:** Python-powered attendee validation, POAP badge automation, Web3 event integration.
+RollCall3 is a Flask-powered bridge between event organizers and Web3. It uses Python-based validation to analyze Google Meet or Zoom attendance reports and automatically determine who truly attended the event. Once verified, it connects with the POAP API to generate and distribute event badges seamlessly. Think of it as your smart backend that turns attendance data into blockchain-proof memories.<br>
+**Features:** Python-powered attendee validation, POAP badge automation, Web3 event integration.<br>
 **Stack:** Flask, Python, POAP API, HTML/CSS, Bootstrap
 [![Repo](https://img.shields.io/badge/View%20Repo-RollCall3-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/RollCall3)
 
