@@ -28,7 +28,7 @@
 ## 🌟 Projects I'm Proud Of
 
 ### 🌦️ WeatherOrNot  
-A Flask-based weather app that displays live weather using real-time APIs and now includes forecast functionality.  
+A Flask-based weather app that displays live weather through API and forecasts using continuous valuation of 30 Day Historic weather data .  
 **Features:** City-specific weather conditions, extended forecasts, sleek UI.  
 **Stack:** Flask, Python, Weather API, HTML/CSS  
 [![Repo](https://img.shields.io/badge/View%20Repo-WeatherOrNot-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/WeatherOrNot)
