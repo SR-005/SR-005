@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Sreeram V Gopal</h1>
 <p align="center">I love creating with code — sometimes useful, sometimes weird, always interesting.</p>
-<p align="center">Whether it’s a weather app, a dinosaur running for redemption, or a machine learning model predicting marks, I enjoy bringing ideas to life, no matter how random they seem.</p>
+<p align="center">Whether it’s a ml powered weather app, a dinosaur running for redemption, or a machine learning model predicting marks, I enjoy bringing ideas to life, no matter how random they seem.</p>
 
 ---
 
@@ -27,24 +27,33 @@
 
 ## 🌟 Projects I'm Proud Of
 
-### 🌦️ WeatherOrNot  
-A Flask-based weather app that displays live weather through API and forecasts using continuous valuation of 30 Day Historic weather data .  
+###  RollCall3  
+RollCall3 is a Flask-powered bridge between event organizers and Web3. It uses Python-based validation to analyze Google Meet or Zoom attendance reports and automatically determine who truly attended the event. Once verified, it connects with the POAP API to generate and distribute event badges seamlessly. Think of it as your smart backend that turns attendance data into blockchain-proof memories.
+**Features:** Python-powered attendee validation, POAP badge automation, Web3 event integration.
+**Stack:** Flask, Python, POAP API, HTML/CSS, Bootstrap
+[![Repo](https://img.shields.io/badge/View%20Repo-RollCall3-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/RollCall3)
+
+---
+
+###  WeatherOrNot  
+WeatherorNot is an ML-powered weather forecasting web app built with Flask. It combines real-time weather data from an external API with insights from a regression model trained on 30 days of historical data to predict temperature, humidity, and rainfall trends. This makes the forecasts more adaptive and locally accurate than standard API-based results.  
 **Features:** City-specific weather conditions, extended forecasts, sleek UI.  
-**Stack:** Flask, Python, Weather API, HTML/CSS  
+**Stack:** Flask, Scikit-Learn, Python, Weather API, HTML/CSS  
 [![Repo](https://img.shields.io/badge/View%20Repo-WeatherOrNot-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/WeatherOrNot)
 
 ---
 
-### 🏓 PingPalm
+###  PingPalm
 
 A multiplayer Pong game powered by **real-time hand tracking**—no controllers, just palms. Control paddles using your index fingers via webcam. It’s Pong, but with hand gestures and obstacle chaos.
 **Features:** Gesture-based paddle control, mid-game obstacles, live webcam feed.
+**Stack:** Python, OpenCV, MediaPipe, Pygame, NumPy  
 <br>
 [![Repo](https://img.shields.io/badge/View%20Repo-PingPalm-0A66C2?style=for-the-badge\&logo=github)](https://github.com/SR-005/PingPalm)
 
 ---
 
-### 📊 GradeGaze  
+###  GradeGaze  
 A data science project that analyzes study time and predicts marks using ML.  
 **Features:** Data visualization, ML regression models, interactive graphs.  
 **Stack:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  
@@ -52,7 +61,7 @@ A data science project that analyzes study time and predicts marks using ML.
 
 ---
 
-### 🦖 Once a Dino Always a Dino  
+###  Once a Dino Always a Dino  
 A 2D story-driven running simulator built with Godot Engine.  
 You play as a Dino, chosen by Jesus (yes, *that* Jesus), on a mission to save your species.  
 Expect dark lore, multiple biomes, collectible snacks, 2D cutscenes, and a healthy dose of **prehistoric panic**.  
@@ -61,7 +70,7 @@ Expect dark lore, multiple biomes, collectible snacks, 2D cutscenes, and a healt
 
 ---
 
-### 💼 Payroll Generator  
+###  Payroll Generator  
 A GUI-based payroll manager for generating salary slips in bulk — built for both Excel integration and SQL data management.  
 **Features:** Auto salary calculation, bulk slip creation, PF/ESI deduction, Excel & database support.  
 **Stack:** Python, CustomTkinter, OpenPyXL, SQLite/MySQL  
