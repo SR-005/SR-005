@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Sreeram V Gopal</h1>
 <p align="center">I love creating with code — sometimes useful, sometimes weird, always interesting.</p>
-<p align="center">Whether it’s a ml powered weather app, a dinosaur running for redemption, or a machine learning model predicting marks, I enjoy bringing ideas to life, no matter how random they seem.</p>
+<p align="center">From ML-powered apps and computer-vision experiments to Web3 systems, I enjoy bringing ideas to life—no matter how random they seem.</p>
 
 ---
 
@@ -10,16 +10,20 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/web3.py-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" />
 </p>
 
 
@@ -27,19 +31,19 @@
 
 ## 🌟 Projects I'm Proud Of
 
-###  RollCall3  
-RollCall3 is a Flask-powered bridge between event organizers and Web3. It uses Python-based validation to analyze Google Meet or Zoom attendance reports and automatically determine who truly attended the event. Once verified, it connects with the POAP API to generate and distribute event badges seamlessly. Think of it as your smart backend that turns attendance data into blockchain-proof memories.<br><br>
-**Features:** Python-powered attendee validation, POAP badge automation, Web3 event integration.<br>
-**Stack:** Flask, Python, POAP API, HTML/CSS, Bootstrap<br>
-[![Repo](https://img.shields.io/badge/View%20Repo-RollCall3-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/RollCall3)
+###  Rekord  
+Rekord is a Django-based proof-of-attendance platform that issues soul-bound NFT badges to event participants. It enables organizations to create physical or virtual events, distribute secure claim links, and mint non-transferable NFTs directly to users’ wallets — with all gas fees handled by the backend.Each badge is dynamically generated, stored on IPFS, and customized based on event prestige and participant loyalty, making attendance credentials permanent and verifiable on-chain.<br>
+**Features:** Soul-bound NFT badges, attendee Verification using Pandas, dynamic badge generation, IPFS-hosted metadata, physical & virtual events, loyalty-based evolution.<br>
+**Stack:** Django, Python, Pillow, Web3.py, Solidity, OpenZeppelin, Polygon, IPFS (Pinata), HTML/CSS, Bootstrap, JavaScript<br>
+[![Repo](https://img.shields.io/badge/View%20Repo-RollCall3-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/Rkord)
 
 ---
 
-###  WeatherOrNot  
-WeatherorNot is an ML-powered weather forecasting web app built with Flask. It combines real-time weather data from an external API with insights from a regression model trained on 30 days of historical data to predict temperature, humidity, and rainfall trends. This makes the forecasts more adaptive and locally accurate than standard API-based results.  <br>
-**Features:** City-specific weather conditions, extended forecasts, sleek UI.  
-**Stack:** Flask, Scikit-Learn, Python, Weather API, HTML/CSS  
-[![Repo](https://img.shields.io/badge/View%20Repo-WeatherOrNot-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/WeatherOrNot)
+###  CredChain  
+CredChain is a decentralized reputation system for freelancers that stores verified project proofs and client reviews on-chain. By hashing project deliverables and recording client-authenticated feedback on the blockchain, it creates a portable, tamper-proof professional identity that isn’t tied to any centralized platform.<br>
+**Features:** On-chain portfolios, hash proofs of work, client-authenticated reviews, skill-based badges, decentralized freelancer profiles.<br>
+**Stack:** Solidity, MoonBase (Polkadot), MetaMask, Web3.js, Web3.py, Flask, Python, IPFS, HTML, Tailwind CSS<br>
+[![Repo](https://img.shields.io/badge/View%20Repo-RollCall3-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/RollCall3)
 
 ---
 
@@ -53,11 +57,11 @@ A multiplayer Pong game powered by **real-time hand tracking**—no controllers,
 
 ---
 
-###  GradeGaze  
-A data science project that analyzes study time and predicts marks using ML.  <br>
-**Features:** Data visualization, ML regression models, interactive graphs.  
-**Stack:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-[![Repo](https://img.shields.io/badge/View%20Repo-GradeGaze-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/GradeGaze)
+###  WeatherOrNot  
+WeatherorNot is an ML-powered weather forecasting web app built with Flask. It combines real-time weather data from an external API with insights from a regression model trained on 30 days of historical data to predict temperature, humidity, and rainfall trends. This makes the forecasts more adaptive and locally accurate than standard API-based results.  <br>
+**Features:** City-specific weather conditions, extended forecasts, sleek UI.  
+**Stack:** Flask, Scikit-Learn, Python, Weather API, HTML/CSS  
+[![Repo](https://img.shields.io/badge/View%20Repo-WeatherOrNot-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/WeatherOrNot)
 
 ---
 
