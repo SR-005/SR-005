@@ -35,7 +35,7 @@
 Rekord is a Django-based proof-of-attendance platform that issues soul-bound NFT badges to event participants. It enables organizations to create physical or virtual events, distribute secure claim links, and mint non-transferable NFTs directly to users’ wallets — with all gas fees handled by the backend.Each badge is dynamically generated, stored on IPFS, and customized based on event prestige and participant loyalty, making attendance credentials permanent and verifiable on-chain.<br>
 **Features:** Soul-bound NFT badges, attendee Verification using Pandas, dynamic badge generation, IPFS-hosted metadata, physical & virtual events, loyalty-based evolution.<br>
 **Stack:** Django, Python, Pillow, Web3.py, Solidity, OpenZeppelin, Polygon, IPFS (Pinata), HTML/CSS, Bootstrap, JavaScript<br>
-[![Repo](https://img.shields.io/badge/View%20Repo-RollCall3-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/Rkord)
+[![Repo](https://img.shields.io/badge/View%20Repo-Rekord-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/Rekord)
 
 ---
 
@@ -43,7 +43,7 @@ Rekord is a Django-based proof-of-attendance platform that issues soul-bound NFT
 CredChain is a decentralized reputation system for freelancers that stores verified project proofs and client reviews on-chain. By hashing project deliverables and recording client-authenticated feedback on the blockchain, it creates a portable, tamper-proof professional identity that isn’t tied to any centralized platform.<br>
 **Features:** On-chain portfolios, hash proofs of work, client-authenticated reviews, skill-based badges, decentralized freelancer profiles.<br>
 **Stack:** Solidity, MoonBase (Polkadot), MetaMask, Web3.js, Web3.py, Flask, Python, IPFS, HTML, Tailwind CSS<br>
-[![Repo](https://img.shields.io/badge/View%20Repo-RollCall3-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/RollCall3)
+[![Repo](https://img.shields.io/badge/View%20Repo-Cred_Chain-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/cred-chain)
 
 ---
 
