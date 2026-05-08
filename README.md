@@ -65,21 +65,6 @@ WeatherorNot is an ML-powered weather forecasting web app built with Flask. It c
 
 ---
 
-###  Once a Dino Always a Dino  
-A 2D story-driven running simulator built with Godot Engine.  
-You play as a Dino, chosen by Jesus (yes, *that* Jesus), on a mission to save your species.  
-Expect dark lore, multiple biomes, collectible snacks, 2D cutscenes, and a healthy dose of **prehistoric panic**.<br>  
-**Stack:** Godot Engine, GDScript, 2D Animation  
-[![Repo](https://img.shields.io/badge/View%20Repo-Once%20a%20Dino-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/Once-a-Dino-Always-a-Dino)
-
----
-
-###  Payroll Generator  
-A GUI-based payroll manager for generating salary slips in bulk — built for both Excel integration and SQL data management. <br> 
-**Features:** Auto salary calculation, bulk slip creation, PF/ESI deduction, Excel & database support.  
-**Stack:** Python, CustomTkinter, OpenPyXL, SQLite/MySQL  
-[![Repo](https://img.shields.io/badge/View%20Repo-Payroll%20Generator-0A66C2?style=for-the-badge&logo=github)](https://github.com/SR-005/Payroll-Generator)
-
 
 - **More coming soon... assuming I don’t disappear into another YouTube tutorial rabbit hole.**
 
